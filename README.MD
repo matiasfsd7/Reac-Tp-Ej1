@@ -1,6 +1,7 @@
 # TP REACT EJERCIO 1 ❄
 
 Mi **README** para este TP.
+La tarea consistia en crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
 
 ## Herramientas Utilizadas
 

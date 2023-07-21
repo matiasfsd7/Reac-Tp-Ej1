@@ -1,10 +1,14 @@
-import { useState } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
-
-  return <></>;
+  return (
+    <>
+      <div>
+        <h1 className="text-center text-light">Hello World!</h1>
+      </div>
+    </>
+  );
 }
 
 export default App;
